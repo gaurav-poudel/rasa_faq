@@ -1,0 +1,27 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0igVRJoYgtlmYHYKiDQ2AJOp8WAJEzBpiiyUDFZrASINjECkIUQ6Dcy2RJhkaF5bGwsAr0k3Lg==": "utter_मुद्रा_तथा_बैंकिङ्ग",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0igVRJoYgtlmYHYKiDQ2AJOp8WAJEzBpiiyUDFZrASINjECkIUQ6Dcy2RJhkaF5LwJmlJSWpRfF0c80AhkMsAHIzh5I=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJydjsEKwyAQRH/FD8jBGgOpv5IWCekmCIktZu1F/PeqG4i3QC+Pmdlh2CHEhoWPg68eJzRvq1ggoe24gWKHWc2OYFPX7+BSx9hkUbHFAWC82PCI4DRV/1u4+OLh+V1MmbLP5CLz1ulykIVdZgslasnM51m+Ks2LnqlaDZI+qvWe6Ks9IlAe4/MHIm14dA==": "utter_बैंक_तथा_वित्तीय_संस्था_नियमन",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVMaUGlkbJINLEAkQaGIFIQ9N4sIQJmDQFkcapYCFjCCcNIW2SgsQ2ALPTIEqRDISwoUqRzTOyQDIPQqZCxIkLmkHs/iEV1rEA28XlmA==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0tgUTKaBSCMzEGliDhaBsA3iMRRZILFTwWRabW0sAINwLlk=": "utter_विदेशी_विनिमय",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0tgUTKaBSCMzEGliDhaBsA3iMRRZILFTwWRaLQF3lJaUpBZhmkS2dbT0SSwAtjhtEw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPT8/JakytbY2FgAh+hxX": "utter_goodbye",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPT8/JakytZaAKaUlJalF8TDFuE2JBQCMqTcN": "action_listen",
+    "eJxNjFEOgyAQRK/CAfqBVNRylbYhRrcJSUsbRX8Idy/MmsjPZGbe7txjuoj4W2i34xTc1xsR2Vg/fsiII7zdGsjn222lJd84n2Mw4rHJm6Ki7QTfwc9FrxL6KtpoCzwAA6iWsT2D0qgIlezOER48cD0odTXbAA9Vw289r3Kf0vMPnUVMEQ==": "utter_मौद्रिक_नीति_तथा_आर्थिक_अनुसन्धान",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0igVRJokg9lmYHYKiDQ2AJNpINLQNB4sbQGWBksYmUCk4xEcI1OwUCpYyMAMYQjEQKg0soEGpkjGGoKlLZBEINrMIaZCxGsJeLi0pCS1KH4I+mtYxE0sAOt4xjs=": "action_listen",
+    "eJxFiksKgCAURbfiAhr4KSi3UiFSbyDUK1KbiHtPX0GTwz2XM6bcsHRecBu7BHegZukdBu0Omn2yOR8ASxs9XKVxWDRoNkU+yLWyFZWio02PbCsV0O7p54bE/pHi9Kg/VfJNc54f+C4zTA==": "utter_भुक्तानी_प्रणाली",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0igFRJoYgkhDUzAbLGJkAiKNU8FsC7C4QTyYk4hQZGwAFjFGKDU2giitJeCy0pKS1KJ4WjqAvr6NBQCzNHvs": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohv7QkPj8tvjg5vyC1tjYWALYRHnM=": "utter_default",
+    "eJyFjMEJwCAMAFfJAJ3AVUoJohEEm4gm/Yi7V2j//u7guHPMA0Zt9KAPmoUdjA+Q/U0Ofim5K/FqrVNbTeal6kBMURL2IJXmZmWq1DBS8lZ0t7pe19c7QQ==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0igVRBqDSRMLsIgZmJ0CFjcAk2kg0tA0HswxRUgbpSFEjC2QxE0RhholgkmL2tpYANPTON0=": "utter_माैद्रिक_व्यवस्थापन",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0igVRBqDSRMLsIgZmJ0CFjcAk2kg0tA0HswxRUgbpSFEjC2QxE0RhholgkmLWgJuLS0pSS2Kp6+TBjpEYgHy9oyf": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0tgIRBpagEgTw3iwkCmYTAORRiZgiRQIu7Y2FgCFiCc1": "utter_लघु_वित्त",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohptTA0tgIRBpagEgTw3iwkCmYTAORRiZgiRQIu5aAfaUlJalF8aQbSw2XxQIAW4tXpw==": "action_listen",
+    "eJydjkEOwiAQRa/CAVxQbLXtVdSQilNDomjo4IZwd2GmCe6auPmZn//mz5xi2on49vDRk0H7cqOIPGg3PWEUq3nYBcFlNizgM2NdtjiKuwfAtNEREMFrRv9r2PjiHOSgTNG2LypV0aar2l41QVB0P5MSqnoObjVozE8gBzIHKjkSxDMtqJkhLuz4tq7t6yO0pyTXpnT5AmbXfbQ=": "utter_बैंकको_मिसन_भिजन_उदेश्य_एवं_संगठन",
+    "eJzVkUEOwiAQRa/CAVxQbLXlKtqQilNDomgouCG9uzDTBHc17rr5mcl/8xngFOcdiy8HbzVob55WskiFssMDJFuau5k82MSGCVxijE2tl+zmAPy8khG8B6cI/S9hZYtz4J3QWes2KxdZq6ZofVEIQdb9iIqoaMm4FqPSXwbvsDlgyBEhqnFAjARRYENnq5K+LIJzglPsb6+1rStt/Uf6D0lW9Vg=": "action_listen"
+  }
+}

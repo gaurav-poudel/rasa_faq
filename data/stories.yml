@@ -1,0 +1,57 @@
+version: "3.1"
+
+stories:
+
+- story: greet and ask banking regulation
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: बैंक_तथा_वित्तीय_संस्था_नियमन
+  - action: utter_बैंक_तथा_वित्तीय_संस्था_नियमन
+
+- story: greet and ask bank mission
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: बैंकको_मिसन_भिजन_उदेश्य_एवं_संगठन
+  - action: utter_बैंकको_मिसन_भिजन_उदेश्य_एवं_संगठन
+
+- story: ask payment system
+  steps:
+  - intent: भुक्तानी_प्रणाली
+  - action: utter_भुक्तानी_प्रणाली
+
+- story: ask monetary management
+  steps:
+  - intent: माैद्रिक_व्यवस्थापन
+  - action: utter_माैद्रिक_व्यवस्थापन
+
+- story: ask currency and banking
+  steps:
+  - intent: मुद्रा_तथा_बैंकिङ्ग
+  - action: utter_मुद्रा_तथा_बैंकिङ्ग
+
+- story: ask monetary policy
+  steps:
+  - intent: मौद्रिक_नीति_तथा_आर्थिक_अनुसन्धान
+  - action: utter_मौद्रिक_नीति_तथा_आर्थिक_अनुसन्धान
+
+- story: ask microfinance
+  steps:
+  - intent: लघु_वित्त
+  - action: utter_लघु_वित्त
+
+- story: ask foreign exchange
+  steps:
+  - intent: विदेशी_विनिमय
+  - action: utter_विदेशी_विनिमय
+
+- story: say goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: out of scope handling
+  steps:
+  - intent: out_of_scope
+  - action: utter_default
